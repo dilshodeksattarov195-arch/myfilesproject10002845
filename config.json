@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasepender",
+        "uuid": 24708825,
+        "checksum": "4mykgi"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
